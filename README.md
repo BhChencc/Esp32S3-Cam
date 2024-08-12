@@ -8,16 +8,10 @@ This project is for anyone who wants to capture a video stream through esp32cam 
 - Step 2: Initializing the board
 - Step 3: Capture video streams
 
-## Installation
-
-
-
 ## How to use
+When you finish step 3  
+Open the IP address on the internet.
 
 
-
-## Contributtion
-
-
-
-## Copyright
+## Reference
+https://wiki.seeedstudio.com/XIAO_ESP32S3_Micropython/
